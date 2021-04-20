@@ -1,0 +1,20 @@
+3
+
+Ile to jest 2 + 2?
+A) 4
+B) 5
+C) 1
+D) 12
+;
+Co jest stolica Polskii?
+A) Gniezno
+B) Krakow
+C) Warszawa
+D) Wroclaw
+;
+EBEBEBEBEBEBEBEBE
+A) A
+B) B
+C) C
+D) D
+;
